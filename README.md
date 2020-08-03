@@ -15,6 +15,7 @@
 [<img align="left" alt="Sourav | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sourav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sourav | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="Sourav| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -52,6 +53,7 @@
 [instagram]: https://www.instagram.com/sourav_rao31/
 [linkedin]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
 [facebook]: https://www.facebook.com/saurav.roa
+[leetcode]: https://leetcode.com/100ravv/
 [webdevplaylist]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
 [jsplaylist]: https://souravrao-31.github.io/MyResume/
 [cssplaylist]:  https://www.instagram.com/sourav_rao31/
