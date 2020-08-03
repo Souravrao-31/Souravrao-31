@@ -51,9 +51,9 @@
 [website]: https://souravrao-31.github.io/MyResume/
 [twitter]: https://twitter.com/SouravRao3110
 [instagram]: https://www.instagram.com/sourav_rao31/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
 [facebook]: https://www.facebook.com/saurav.roa
-[webdevplaylist]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
 [jsplaylist]: https://souravrao-31.github.io/MyResume/
-[cssplaylist]:  https://linkedin.com/in/codeSTACKr
+[cssplaylist]:  https://www.instagram.com/sourav_rao31/
 [reactplaylist]: https://souravrao-31.github.io/MyResume/
