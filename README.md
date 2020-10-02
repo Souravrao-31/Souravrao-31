@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects / Learn new Tech
 - ⚡ Other interest : Astronomy | Space | video Games
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="280">
+
 ### Connect with me:
 
 [<img align="left" alt="https://souravrao-31.github.io/MyResume/"
