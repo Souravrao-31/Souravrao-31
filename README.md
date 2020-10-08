@@ -3,7 +3,8 @@
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="280">
-## I'm a Student, Developer, and Seeking my career in Devops.
+
+### I'm a Student, Developer, and Seeking my career in Devops.
 - 🔭 I’m currently a Beginner in Competitive Programmer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to boost my skills in Full stack development | Cloud native | Devops
