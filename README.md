@@ -52,3 +52,15 @@
 [jsplaylist]: https://souravrao-31.github.io/MyResume/
 [cssplaylist]:  https://www.instagram.com/sourav_rao31/
 [reactplaylist]: https://souravrao-31.github.io/MyResume/
+
+
+![](https://komarev.com/ghpvc/?username=Souravrao-31&color=grey)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Souravrao-31&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
+<br>
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravrao-31"/>
+<br>
+</br>
+
+</p>
