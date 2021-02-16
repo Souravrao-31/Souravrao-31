@@ -8,7 +8,7 @@
 - 🔭 I’m currently a Beginner in Competitive Programmer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to boost my skills in Full stack development | Cloud native | Devops
-- 🥅 2020 Goals: Contribute more to Open Source projects / Learn new Tech
+- 🥅 2021 Goals: Contribute more to Open Source projects / Learn new Tech
 - ⚡ Other interest : Astronomy | Space | video Games
 
 
