@@ -1,5 +1,5 @@
 ### Hi there, I'm Sourav Rao 
-## This is my on online Resume (Which is still in Development)[website] 👋
+
 
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="300" height="280">
