@@ -41,7 +41,7 @@
 ---
 
 
-[website]: https://souravrao-31.github.io/MyResume/
+[website]: [https://souravrao-31.github.io/My/](https://www.souravrao.com/)
 [twitter]: https://twitter.com/SouravRao3110
 [instagram]: https://www.instagram.com/sourav_rao31/
 [linkedin]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
