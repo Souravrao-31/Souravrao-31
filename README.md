@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://souravrao-31.github.io/MyResume/"
+[<img align="left" alt="https://www.souravrao.com/"
  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sourav | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -41,7 +41,7 @@
 ---
 
 
-[website]: [https://souravrao-31.github.io/My/](https://www.souravrao.com/)
+[website]: https://www.souravrao.com/
 [twitter]: https://twitter.com/SouravRao3110
 [instagram]: https://www.instagram.com/sourav_rao31/
 [linkedin]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
