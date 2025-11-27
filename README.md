@@ -14,13 +14,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.souravrao.com/"
- width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sourav | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sourav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sourav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sourav | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="Sourav| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/fluency-systems-regular/48/domain.png" />][website]
+[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/ios-filled/50/facebook.png" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/linkedin.png" />][linkedin]
+[<img align="left" alt="Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" />][leetcode]
+[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/ios-filled/50/instagram-new.png" />][instagram]
+
+<br/>
+
 
 <br />
 
