@@ -14,17 +14,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/fluency-systems-regular/48/domain.png" />][website]
-[<img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/ios-filled/50/facebook.png" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/ios-filled/50/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/ios-filled/50/linkedin.png" />][linkedin]
-[<img align="left" alt="Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" />][leetcode]
-[<img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/ios-filled/50/instagram-new.png" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" />][website]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />][instagram]
 
 <br/>
-
-
-<br />
 
 ### Languages and Tools:
 
