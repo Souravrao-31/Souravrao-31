@@ -17,8 +17,8 @@
 [![website](./img/globe-light.svg)](https://souravrao.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://souravrao.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/SouravRao3110#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/SouravRao3110#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/saaurav#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/saaurav#gh-dark-mode-only)
@@ -50,24 +50,6 @@
 <br />
 <br />
 
----
-
-
-[website]: https://www.souravrao.com/
-[twitter]: https://twitter.com/SouravRao3110
-[instagram]: https://www.instagram.com/sourav_rao31/
-[linkedin]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
-[facebook]: https://www.facebook.com/saurav.roa
-[leetcode]: https://leetcode.com/100ravv/
-[webdevplaylist]: https://www.linkedin.com/in/sourav-rao-0b579b17b/
-[jsplaylist]: https://souravrao-31.github.io/MyResume/
-[cssplaylist]:  https://www.instagram.com/sourav_rao31/
-[reactplaylist]: https://souravrao-31.github.io/MyResume/
-
-
-![](https://komarev.com/ghpvc/?username=Souravrao-31&color=grey)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Souravrao-31&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true"/>
 <br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravrao-31"/>
