@@ -8,7 +8,7 @@
 - 🔭 I’m currently a MERN developer.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to boost my skills in Full stack development | Cloud native | Devops
-- 🥅 2025 Goals: Contribute more to Open Source projects / Learn new Tech
+- 🥅 2026 Goals: Contribute more to Open Source projects / Learn new Tech
 - ⚡ Other interest : Astronomy | Space | video Games
 
 
