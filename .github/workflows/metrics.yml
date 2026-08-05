@@ -1,0 +1,64 @@
+name: Generate Metrics
+
+# Renders your GitHub stats as SVGs INSIDE this repo, so the README never
+# depends on a third-party server that can 503 or run out of billing quota.
+#
+# ONE-TIME SETUP (see .github/SETUP.md for the walkthrough):
+#   1. Create a classic PAT with scopes: public_repo, read:user
+#      https://github.com/settings/tokens/new?scopes=public_repo,read:user
+#   2. Add it here as a repo secret named METRICS_TOKEN:
+#      https://github.com/Souravrao-31/Souravrao-31/settings/secrets/actions/new
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # daily at 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Overview card — commits, PRs, issues, stars, followers
+      - name: Overview
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/overview.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_display: large
+          committer_branch: master
+
+      # Language breakdown — replaces the top-langs card
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/languages.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          committer_branch: master
+
+      # Isometric contribution calendar — a nicer contribution graph
+      - name: Isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics/calendar.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          committer_branch: master
